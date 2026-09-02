@@ -83,8 +83,8 @@ Add your project screenshot here:
 
 ## 🔗 Relevant Links
 
-* 🌐 [Live Demo](YOUR_LIVE_LINK_HERE)
-* 💻 [GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
+* 🌐 [Live Demo]([https://saun55.github.io/conversation-platform/](https://saun55.github.io/pixelforge-studio/))
+* 💻 [GitHub Repository]([YOUR_GITHUB_REPOSITORY_URL](https://github.com/saun55/pixelforge-studio))
 
 ## 👨‍💻 Author
 
