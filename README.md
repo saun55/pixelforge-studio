@@ -4,10 +4,6 @@ A modern and responsive digital studio landing page designed to help businesses 
 
 ## 🚀 Live Demo
 
-[🔗 View Live Project](https://saun55.github.io/conversation-platform/)
-
-## 🌐 Live Demo
-
 [🔗 View Live Project](https://saun55.github.io/pixelforge-studio/)
 
 ## 📖 About The Project                  
