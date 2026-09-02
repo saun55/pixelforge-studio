@@ -8,7 +8,7 @@ A modern and responsive digital studio landing page designed to help businesses 
 
 ## 🌐 Live Demo
 
-[🔗 View Live Project]((https://saun55.github.io/pixelforge-studio/))
+[🔗 View Live Project](https://saun55.github.io/pixelforge-studio/)
 
 ## 📖 About The Project                  
 
@@ -87,8 +87,8 @@ Add your project screenshot here:
 
 ## 🔗 Relevant Links
 
-* 🌐 [Live Demo]([https://saun55.github.io/conversation-platform/](https://saun55.github.io/pixelforge-studio/))
-* 💻 [GitHub Repository]([YOUR_GITHUB_REPOSITORY_URL](https://github.com/saun55/pixelforge-studio))
+* 🌐 [Live Demo](https://saun55.github.io/pixelforge-studio/)
+* 💻 [GitHub Repository](https://github.com/saun55/pixelforge-studio)
 
 ## 👨‍💻 Author
 
